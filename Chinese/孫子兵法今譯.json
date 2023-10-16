@@ -1,7 +1,7 @@
 {
     "version": 1,
     "format": "chapterBook",
-    "content": {
+    "chapterBook": {
         "title": "孫子兵法今譯",
         "author": {"name": "孫子"},
         "index": ["始計第一",
